@@ -9,3 +9,4 @@
 * [Python Script to Start an EC2 Instance](https://github.com/hmann12/aws-scripts/blob/master/start_instance.py) - python script to start an instance based on their tag name and values.
 * [Python Script to Stop an EC2 Instance](https://github.com/hmann12/aws-scripts/blob/master/stop_instance.py) - python script to stop an instance based on their tag name and values.
 * [Python Script to Deploy Certain AWS Resources](https://github.com/hmann12/aws-scripts/blob/master/deployment.py) - python script to create LC, ASG and ALB.
+* [Python Script to get Target Health](https://github.com/hmann12/aws-scripts/blob/master/get_target_health.py) - python script to get health status of instances behind an ALB.

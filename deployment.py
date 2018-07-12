@@ -1,5 +1,5 @@
-# this script creates a new Launch Config by copying data from an existing Launch LaunchConfigurations
-# it then creates a new ASG based on the newly created ASG.
+# this script creates a new Launch Config by copying data from an existing Launch Configuration
+# it then creates a new ASG based on the newly created LC.
 # associates instances in the new ASG to a Load Balancer
 
 from __future__ import print_function
