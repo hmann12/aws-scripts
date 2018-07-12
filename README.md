@@ -19,3 +19,5 @@
 * [Python Script to Deploy Certain AWS Resources](https://github.com/hmann12/aws-scripts/blob/master/deployment.py) - python script to create LC, ASG and ALB.
 
 * [Python Script to get Target Health](https://github.com/hmann12/aws-scripts/blob/master/get_target_health.py) - python script to get health status of instances behind an ALB.
+
+* [BASH - Custom Load Balancer Health Check](https://github.com/hmann12/aws-scripts/blob/master/lb_health_check.sh) - a simple aws load balancer health check script.
