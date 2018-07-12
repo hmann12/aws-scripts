@@ -6,3 +6,6 @@
 * [Puppet Clean Old Certs/Nodes](https://github.com/hmann12/aws-scripts/blob/master/clean_old_nodes.py) - python script that will clean old nodes/certs from puppet master server.
 * [BASH Script to Clean Old Puppet Certs](https://github.com/hmann12/aws-scripts/blob/master/clean_puppet_certs.sh) - bash script to clean old puppet certs.
 * [BASH Script to ssh into multiple EC2 instances, tarball necessary logs and bring them down to your local](https://github.com/hmann12/aws-scripts/blob/master/get_logs.sh) - bash script to create a tarball of logs from several servers at once and bring it down to local.
+* [Python Script to Start an EC2 Instance](https://github.com/hmann12/aws-scripts/blob/master/start_instance.py) - python script to start an instance based on their tag name and values.
+* [Python Script to Stop an EC2 Instance](https://github.com/hmann12/aws-scripts/blob/master/stop_instance.py) - python script to stop an instance based on their tag name and values.
+* [Python Script to Deploy Certain AWS Resources](https://github.com/hmann12/aws-scripts/blob/master/deployment.py) - python script to create LC, ASG and ALB.
